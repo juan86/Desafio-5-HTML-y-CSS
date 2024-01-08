@@ -1,0 +1,32 @@
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+h1{
+    font-size: 49pt;
+    color: #04146c;
+    font-weight: bold;
+}
+
+/* CARD */
+.card-body h2{
+    color: #0a2ff1;
+    font-weight: bold;
+    font-size: 30pt;
+}
+
+.btn-outline-primary{
+    color: #04146c;
+    border-color: #0a2ff1;
+    border-radius: 1px;
+}
+
+.card-body h4{
+    color: #04146c;
+    font-weight: bold;
+    font-size: 18pt;
+}
+
+.card-body p{
+    color: #04146c;
+}
